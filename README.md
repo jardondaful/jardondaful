@@ -5,6 +5,8 @@ Side Projects (Language/Framework)
   - Twitch Command Bot (Python)
   - Twitch Moderator Bot (Node.js)
   - Tic-Tac-Toe game (React.js)
+
+
 Classes Repositories were Provided For (Institution, Language(s))
   - COMPSCI-1 (Chaffey College, C++)
   - COMPSCI-2 (Chaffey College, C++)
