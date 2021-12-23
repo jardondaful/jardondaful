@@ -1,5 +1,5 @@
 ### Welcome! 😄
-Hello! My name is Jordan Lin and I am currently studying Computer Science and Engineering at UCLA. I have taken multiple computer science and programming courses at Chaffey College during highschool that introduced me to concepts in C++, Python, JavaScript, HTML, and CSS and am currently taking courses in C++. In my free time, I am learning more about JavaScript and how to implement it in its various frameworks for making applications like games and websites. The following repositories contain what I have programmed in both my courses and on the side
+Hello! My name is Jordan Lin and I am currently studying Computer Science and Engineering at UCLA. I have taken multiple computer science and programming courses at Chaffey College during highschool that introduced me to concepts in C++, Python, JavaScript, HTML, and CSS and am currently taking courses in C++. Currently, I am learning more about JavaScript and how to implement it in its various frameworks for making applications like games and websites. The following repositories contain what I have programmed in both my courses and on the side
 
 Side Projects (Language/Framework)
   - Twitch Command Bot (Python)
