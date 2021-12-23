@@ -7,12 +7,13 @@ Side Projects (Language/Framework)
   - Tic-Tac-Toe Game (React.js)
 
 
-Classes Repositories were Provided For (Institution, Language(s))
+Classes Repositories were Provided For (Institution, Language(s)/Framework)
+  - COM-SCI-31 (UCLA, C++)
+  - EC-ENGR-3 (UCLA, Arduino)
   - COMPSCI-1 (Chaffey College, C++)
   - COMPSCI-2 (Chaffey College, C++)
   - CISPROG-5 (Chaffey College, Python)
   - CISGAME-420 (Chaffey College, HTML, CSS, JavaScript)
-  - COM SCI 31 (UCLA, C++)
 <!--
 **jardondaful/jardondaful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
