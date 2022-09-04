@@ -1,7 +1,7 @@
 ### Welcome! 😄
 Hello! My name is Jordan Lin and I am a second year student majoring in Computer Science and Engineering and minoring in Geospatial Information Systems and Technologies at UCLA. 
 
-Side Projects (Language(s)/Framework)
+Personal/Team Projects (Language(s)/Framework)
   - Twitch Moderator Bot (Node.js)
   - Bruin Bites (React.js)
 
