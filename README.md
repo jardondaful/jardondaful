@@ -7,14 +7,14 @@ Personal/Team Projects (Language(s)/Framework)
 
 
 Classes Repositories were Provided For (Institution, Language(s)/Framework)
-  - COM-SCI-31 (UCLA, C++)
-  - EC-ENGR-3 (UCLA, Arduino)
-  - COMPSCI-1 (Chaffey College, C++)
-  - COMPSCI-2 (Chaffey College, C++)
-  - CISPROG-5 (Chaffey College, Python)
-  - CISGAME-420 (Chaffey College, HTML, CSS, JavaScript)
-  - GEOG-181A (UCLA, ArcGIS Pro and Python)
-  - GEOG-181B (UCLA, ArcGIS Pro and Python)
+  - COM-SCI-31: Introduction to Computer Science I  (UCLA, C++)
+  - EC-ENGR-3: Introduction to Electrical Engineering (UCLA, Arduino)
+  - COMPSCI-1: Introduction to Computer Science 1 (Chaffey College, C++)
+  - COMPSCI-2: Introduction to Computer Science 2 (Chaffey College, C++)
+  - CISPROG-5: Programming with Python (Chaffey College, Python)
+  - CISGAME-420: Mobile/Game Development (Chaffey College, HTML, CSS, JavaScript)
+  - GEOG-181A: Intermediate Geographic Information Systems (UCLA, ArcGIS Pro and Python)
+  - GEOG-181B: Advanced Geographic Information Systems (UCLA, ArcGIS Pro and Python)
 <!--
 **jardondaful/jardondaful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
