@@ -13,6 +13,8 @@ Classes Repositories were Provided For (Institution, Language(s)/Framework)
   - COMPSCI-2 (Chaffey College, C++)
   - CISPROG-5 (Chaffey College, Python)
   - CISGAME-420 (Chaffey College, HTML, CSS, JavaScript)
+  - GEOG-181A
+  - GEOG-181B
 <!--
 **jardondaful/jardondaful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
