@@ -1,6 +1,12 @@
 ### Welcome! 😄
 Hello! My name is Jordan Lin and I am a second year student majoring in Computer Science and Engineering and minoring in Geospatial Information Systems and Technologies at UCLA. 
 
+GIS Projects
+  - Evacuation Site Suitability Analysis
+  - Bridging the Darien Gap with Cost Analysis
+  - T-Mobile Cellular Tower Network Devleopment
+  - Major California City Temperatures in August
+
 Personal/Team Projects (Language(s)/Framework)
   - Twitch Moderator Bot (Node.js)
   - Bruin Bites (React.js)
