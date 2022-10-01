@@ -1,7 +1,7 @@
 ### Welcome! 😄
 Hello! My name is Jordan Lin and I am a second year student majoring in Computer Science and Engineering and minoring in Geospatial Information Systems and Technologies at UCLA. 
 
-GIS Projects (ArcGIS Online Username: Jordan Lin)
+GIS Projects (ArcGIS Online Username: jlin_181Bsum22)
   - Evacuation Site Suitability Analysis
   - Bridging the Darien Gap with Cost Analysis
   - T-Mobile Cellular Tower Network Devleopment
