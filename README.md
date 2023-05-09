@@ -29,4 +29,4 @@ Hello there! 👋 My name is Jordan Lin and I'm a second year student majoring i
 ## Get in Touch
 If you have any questions or just want to say hello, feel free to reach out to me! 📬
 
-[![Linkedin Badge](https://www.linkedin.com/in/jordanlin2003/)
+[![Linkedin Badge](https://img.shields.io/badge/-jordanlin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jordanlin26/](https://www.linkedin.com/in/jordanlin2003/))](https://www.linkedin.com/in/jordanlin2003/)
