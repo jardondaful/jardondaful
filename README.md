@@ -10,15 +10,16 @@ I am dedicated to leveraging my technical expertise to develop accessible, engag
 
 ## Personal/Team Projects (Language(s)/Framework)
 
-- 🍔 **Bruin Bites (JavaScript, React, Bootstrap, Firebase)**: Engineered a dynamic user profile system for UCLA students to share dining preferences and reviews. Developed a system integrated with GIS mapping to visualize dining preferences across UCLA, leveraging geospatial data for an enhanced user experience.
+- 🚶‍♂️ **TrailMatch (React, Natural Language Processing API, ArcGIS Online, Figma)**: As a Software Developer, GIS Analyst, and UI/UX Designer of this project, I integrated Natural Language Processing API with ArcGIS products and React.js for dynamic hiking trail recommendations based on live data. Additionally, I automated 3D visualization of trail features such as nearby gas stations and the amount of sunshine, enhancing user engagement.
+  
+- 🍔 **Bruin Bites (JavaScript, React, Bootstrap, Firebase)**: As a Software Developer and UI/UX Designer of this project, I engineered a dynamic user profile system for UCLA students to share dining preferences and reviews. Additionally, I developed a system integrated with GIS mapping to visualize dining preferences across UCLA, leveraging geospatial data for an enhanced user experience.
 
-- 💬 **Twitch Bot (Twitch API, OAuth, Node.js)**: Combined the Twitch API with OAuth to automate viewer experience enhancement and request fulfillment. Utilized asynchronous code to execute up to 5+ commands simultaneously.
+- 💬 **Twitch Bot (Twitch API, OAuth, Node.js)**: As a Software Engineer of this project, I combined the Twitch API with OAuth in Node.js to automate viewer experience enhancement and request fulfillment. Utilizing asynchronous code, I enabled the execution of up to 5+ commands simultaneously.
 
-- 🖨️ **DMA Printlab Status Interface (Python, Flask, Ansible, YAML, SQL, React, JavaScript, HTML, CSS)**: Streamlined data retrieval from 100+ machines at UCLA's DMA Printlab. Developed a web interface for effective machine status and statistics display.
+- 🖨️ **DMA Printlab Status Interface (Python, Flask, Ansible, YAML, SQL, React, JavaScript, HTML, CSS)**: As a Full Stack Developer of this project, I streamlined data retrieval from 100+ machines at UCLA's DMA Printlab using Ansible and YAML. I also developed a web interface with Python, Flask, SQL, and React for effective machine status and statistics display.
 
-- 🚶‍♂️ **TrailMatch (React, Natural Language Processing API, ArcGIS Online, Figma)**: As a Software Developer, GIS Analyst, and UI/UX Designer, I integrated Natural Language Processing API with ArcGIS products and React.js for dynamic hiking trail recommendations based on live data. I automated 3D visualization of trail features, such as nearby gas stations and the amount of sunshine, enhancing user engagement.
-
-- 🚌 **Bruin Bus Route/Stop Locator (ArcGIS Pro, ArcGIS Online, Python)**: Optimized Los Angeles bus route selection using Python and GTFS data, improving UCLA student travel efficiency. Automated the production of visual route guides and schedules for better navigation in Los Angeles.
+- 🚌 **Bruin Bus Route/Stop Locator (ArcGIS Pro, ArcGIS Online, Python)**: As a Software Developer and GIS Analyst of this project, I optimized Los Angeles bus route selection using Python and GTFS data, improving UCLA student travel efficiency. Moreover, I automated the production of visual route guides and schedules for better navigation in Los Angeles.
+  
 ## GIS Projects (ArcGIS Online Username: jlin_181Bsum22)
 - 🗺️ **Mapping Vernal Swale Italian Thistle Invasion (Agisoft Metashape, ArcGIS Pro, ArcGIS Field Maps, GRASS GIS)**: Employed advanced aerial imaging techniques to survey the Vernal Swale at UC Sedgwick Reserve, leveraging cutting-edge technology including a DJI Mavic 3 M drone equipped with an RTK receiver. Our focus was on meticulously mapping the distribution of the invasive Italian Thistle. By meticulously processing and analyzing UAV imagery using Agisoft Metashape, we gained invaluable insights. Further enhancing our assessment, we utilized the robust capabilities of ArcGIS Pro and GRASS GIS to predict and visualize the spread of Italian Thistle in the Vernal Swale, contributing significantly to ecological impact assessment.
   
