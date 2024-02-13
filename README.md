@@ -16,12 +16,10 @@ I am dedicated to leveraging my technical expertise to develop accessible, engag
 
 - 🖨️ **DMA Printlab Status Interface (Python, Flask, Ansible, YAML, SQL, React, JavaScript, HTML, CSS)**: Streamlined data retrieval from 100+ machines at UCLA's DMA Printlab. Developed a web interface for effective machine status and statistics display.
 
-## GIS Projects (ArcGIS Online Username: jlin_181Bsum22)
-
 - 🚶‍♂️ **TrailMatch (React, Natural Language Processing API, ArcGIS Online, Figma)**: As a Software Developer, GIS Analyst, and UI/UX Designer, I integrated Natural Language Processing API with ArcGIS products and React.js for dynamic hiking trail recommendations based on live data. I automated 3D visualization of trail features, such as nearby gas stations and the amount of sunshine, enhancing user engagement.
 
 - 🚌 **Bruin Bus Route/Stop Locator (ArcGIS Pro, ArcGIS Online, Python)**: Optimized Los Angeles bus route selection using Python and GTFS data, improving UCLA student travel efficiency. Automated the production of visual route guides and schedules for better navigation in Los Angeles.
-
+## GIS Projects (ArcGIS Online Username: jlin_181Bsum22)
 - Additional GIS Projects:
   - 🗺️ Evacuation Site Suitability Analysis
   - 🌉 Bridging the Darien Gap with Cost Analysis
