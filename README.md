@@ -8,6 +8,14 @@ I've engaged in a variety of projects that span dynamic UI development, backend 
 
 I am dedicated to leveraging my technical expertise to develop accessible, engaging, and efficient solutions for real-world challenges, always seeking opportunities for learning and growth. 🌟📚
 
+## Personal/Team Projects (Language(s)/Framework)
+
+- 🍔 **Bruin Bites (JavaScript, React, Bootstrap, Firebase)**: Engineered a dynamic user profile system for UCLA students to share dining preferences and reviews. Developed a system integrated with GIS mapping to visualize dining preferences across UCLA, leveraging geospatial data for an enhanced user experience.
+
+- 💬 **Twitch Bot (Twitch API, OAuth, Node.js)**: Combined the Twitch API with OAuth to automate viewer experience enhancement and request fulfillment. Utilized asynchronous code to execute up to 5+ commands simultaneously.
+
+- 🖨️ **DMA Printlab Status Interface (Python, Flask, Ansible, YAML, SQL, React, JavaScript, HTML, CSS)**: Streamlined data retrieval from 100+ machines at UCLA's DMA Printlab. Developed a web interface for effective machine status and statistics display.
+
 ## GIS Projects (ArcGIS Online Username: jlin_181Bsum22)
 
 - 🚶‍♂️ **TrailMatch (React, Natural Language Processing API, ArcGIS Online, Figma)**: As a Software Developer, GIS Analyst, and UI/UX Designer, I integrated Natural Language Processing API with ArcGIS products and React.js for dynamic hiking trail recommendations based on live data. I automated 3D visualization of trail features, such as nearby gas stations and the amount of sunshine, enhancing user engagement.
@@ -19,14 +27,6 @@ I am dedicated to leveraging my technical expertise to develop accessible, engag
   - 🌉 Bridging the Darien Gap with Cost Analysis
   - 📶 T-Mobile Cellular Tower Network Development
   - ☀️ Major California City Temperatures in August
-
-## Personal/Team Projects (Language(s)/Framework)
-
-- 🍔 **Bruin Bites (JavaScript, React, Bootstrap, Firebase)**: Engineered a dynamic user profile system for UCLA students to share dining preferences and reviews. Developed a system integrated with GIS mapping to visualize dining preferences across UCLA, leveraging geospatial data for an enhanced user experience.
-
-- 💬 **Twitch Bot (Twitch API, OAuth, Node.js)**: Combined the Twitch API with OAuth to automate viewer experience enhancement and request fulfillment. Utilized asynchronous code to execute up to 5+ commands simultaneously.
-
-- 🖨️ **DMA Printlab Status Interface (Python, Flask, Ansible, YAML, SQL, React, JavaScript, HTML, CSS)**: Streamlined data retrieval from 100+ machines at UCLA's DMA Printlab. Developed a web interface for effective machine status and statistics display.
 
 ## Classes Repositories
 
