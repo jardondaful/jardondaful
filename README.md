@@ -2,27 +2,31 @@
 
 ## About Me
 
-Hello there! 👋 I'm Jordan Lin, a student at UCLA pursuing a B.S. in Computer Science & Engineering with a minor in Geospatial Information Systems and Technologies. My academic and professional journey is driven by a passion for solving complex problems through innovative technology solutions. 🎓🚀
+Hello there! 👋 I'm Jordan Lin, a student at UCLA pursuing a B.S. in Computer Science & Engineering and minoring in Geospatial Information Systems and Technologies. My academic and professional journey is driven by a passion for solving complex problems through innovative technology solutions. 🎓🚀
 
-I've worked on a diverse range of projects, from developing dynamic user interfaces to automating backend processes and engaging in comprehensive GIS analyses. My roles as a Software Development Intern at Esri and a Part-Time UI/UX Designer & Website Developer at UCLA's Asian American Studies Center have honed my skills in frontend development, UX design, and system automation. 🌐💡
+I've engaged in a variety of projects that span dynamic UI development, backend automation, and comprehensive GIS analyses. My roles as a Software Development Intern at Esri and a Part-Time UI/UX Designer & Website Developer at UCLA's Asian American Studies Center have sharpened my skills in frontend development, UX design, and system automation. 🌐💡
 
-I aim to leverage my technical expertise to create accessible, engaging, and efficient solutions for real-world challenges, continuously seeking opportunities for learning and growth. 🌟📚
+I am dedicated to leveraging my technical expertise to develop accessible, engaging, and efficient solutions for real-world challenges, always seeking opportunities for learning and growth. 🌟📚
 
 ## GIS Projects (ArcGIS Online Username: jlin_181Bsum22)
 
-Here are some of the key GIS projects I've worked on:
+- 🚶‍♂️ **TrailMatch (React, Natural Language Processing API, ArcGIS Online, Figma)**: As a Software Developer, GIS Analyst, and UI/UX Designer, I integrated Natural Language Processing API with ArcGIS products and React.js for dynamic hiking trail recommendations based on live data. I automated 3D visualization of trail features, such as nearby gas stations and the amount of sunshine, enhancing user engagement.
 
-- 🗺️ **Evacuation Site Suitability Analysis**: Analyzed potential evacuation sites using ArcGIS for optimal emergency planning.
-- 🌉 **Bridging the Darien Gap with Cost Analysis**: Utilized GIS for a cost analysis on bridging the Darien Gap, blending engineering principles with geospatial insights.
-- 📶 **T-Mobile Cellular Tower Network Development**: Designed a network development plan for T-Mobile, optimizing cellular coverage across regions.
-- ☀️ **Major California City Temperatures in August**: Conducted a climate analysis of major California cities in August, using GIS tools for environmental impact studies.
-- **🌍 Mapping Vernal Swale Italian Thistle Invasion**: Leveraged UAV technology and GIS tools like ArcGIS Pro and GRASS GIS for environmental analysis, focusing on the spread of invasive species.
-- **🚶‍♂️ TrailMatch**: Developed an application integrating Natural Language Processing API with ArcGIS products and React.js for dynamic hiking trail recommendations, showcasing skills in software development, GIS analysis, and UI/UX design.
+- 🚌 **Bruin Bus Route/Stop Locator (ArcGIS Pro, ArcGIS Online, Python)**: Optimized Los Angeles bus route selection using Python and GTFS data, improving UCLA student travel efficiency. Automated the production of visual route guides and schedules for better navigation in Los Angeles.
+
+- Additional GIS Projects:
+  - 🗺️ Evacuation Site Suitability Analysis
+  - 🌉 Bridging the Darien Gap with Cost Analysis
+  - 📶 T-Mobile Cellular Tower Network Development
+  - ☀️ Major California City Temperatures in August
 
 ## Personal/Team Projects (Language(s)/Framework)
 
-- 💬 **Twitch Moderator Bot (Node.js)**: Created a bot to enhance the Twitch viewer experience through automated moderation and viewer engagement features.
-- 🍔 **Bruin Bites (React.js)**: Developed a platform enabling UCLA students to share dining preferences and reviews, incorporating dynamic user profiles and leveraging geospatial data for an enhanced user experience.
+- 🍔 **Bruin Bites (JavaScript, React, Bootstrap, Firebase)**: Engineered a dynamic user profile system for UCLA students to share dining preferences and reviews. Developed a system integrated with GIS mapping to visualize dining preferences across UCLA, leveraging geospatial data for an enhanced user experience.
+
+- 💬 **Twitch Bot (Twitch API, OAuth, Node.js)**: Combined the Twitch API with OAuth to automate viewer experience enhancement and request fulfillment. Utilized asynchronous code to execute up to 5+ commands simultaneously.
+
+- 🖨️ **DMA Printlab Status Interface (Python, Flask, Ansible, YAML, SQL, React, JavaScript, HTML, CSS)**: Streamlined data retrieval from 100+ machines at UCLA's DMA Printlab. Developed a web interface for effective machine status and statistics display.
 
 ## Classes Repositories
 
