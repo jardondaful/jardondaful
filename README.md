@@ -20,6 +20,7 @@ I am dedicated to leveraging my technical expertise to develop accessible, engag
 
 - 🚌 **Bruin Bus Route/Stop Locator (ArcGIS Pro, ArcGIS Online, Python)**: Optimized Los Angeles bus route selection using Python and GTFS data, improving UCLA student travel efficiency. Automated the production of visual route guides and schedules for better navigation in Los Angeles.
 ## GIS Projects (ArcGIS Online Username: jlin_181Bsum22)
+- 🗺️ **Mapping Vernal Swale Italian Thistle Invasion (Agisoft Metashape, ArcGIS Pro, ArcGIS Field Maps, GRASS GIS)**: Conducted aerial imaging of the Vernal Swale at UC Sedgwick Reserve using a DJI Mavic 3 M drone with an RTK receiver, focusing on precise mapping of the invasive Italian Thistle distribution. Processed and analyzed UAV imagery using Agisoft Metashape; utilized ArcGIS Pro and GRASS GIS to predict the spread of Italian Thistle in the Vernal Swale, enhancing ecological impact assessment.
 - Additional GIS Projects:
   - 🗺️ Evacuation Site Suitability Analysis
   - 🌉 Bridging the Darien Gap with Cost Analysis
