@@ -2,11 +2,7 @@
 
 ## About Me
 
-Hello there! 👋 I'm Jordan Lin, a student at UCLA pursuing a B.S. in Computer Science & Engineering and minoring in Geospatial Information Systems and Technologies. My academic and professional journey is driven by a passion for solving complex problems through innovative technology solutions. 🎓🚀
-
-I've engaged in a variety of projects that span dynamic UI development, backend automation, and comprehensive GIS analyses. My roles as a Software Development Intern at Esri and a Part-Time UI/UX Designer & Website Developer at UCLA's Asian American Studies Center have sharpened my skills in frontend development, UX design, and system automation. 🌐💡
-
-I am dedicated to leveraging my technical expertise to develop accessible, engaging, and efficient solutions for real-world challenges, always seeking opportunities for learning and growth. 🌟📚
+Hello there! 👋 I'm Jordan Lin, a UCLA graduate who recently completed a B.S. in Computer Science & Engineering and minoring in Geospatial Information Systems and Technologies. My academic and professional journey is driven by my passion for creating user-centered software. My professional experience includes roles at both Esri and UCLA, where I fulfilled four internships and part-time positions in technical support and software/website development. I have thoroughly enjoyed learning how to apply my technical skill set in a variety of professional environments and am always eager to take on new challenges. Dive in to discover how I blend analytical skills with technological artistry to navigate and shape the digital landscape🎓🚀.
 
 ## Personal/Team Projects (Language(s)/Framework)
 
