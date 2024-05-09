@@ -4,7 +4,7 @@
 
 Hello there! 👋 I'm Jordan Lin, a UCLA graduate who recently completed a B.S. in Computer Science & Engineering and minoring in Geospatial Information Systems and Technologies. My academic and professional journey is driven by my passion for creating user-centered software. My professional experience includes roles at both Esri and UCLA, where I fulfilled four internships and part-time positions in technical support and software/website development. I have thoroughly enjoyed learning how to apply my technical skill set in a variety of professional environments and am always eager to take on new challenges. Dive in to discover how I blend analytical skills with technological artistry to navigate and shape the digital landscape🎓🚀.
 
-## Personal/Team Projects (Language(s)/Framework)
+## Personal/Team Projects (Language(s)/Tools)
 
 - 🚶‍♂️ **TrailMatch (React, Natural Language Processing API, ArcGIS Pro ArcGIS Online, Figma)**: Visualize your ideal hiking trail with the power of AI and ArcGIS Online!
 
