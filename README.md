@@ -6,18 +6,18 @@ Hello there! 👋 I'm Jordan Lin, a UCLA graduate who recently completed a B.S. 
 
 ## Personal/Team Projects (Language(s)/Framework)
 
-- 🚶‍♂️ **TrailMatch (React, Natural Language Processing API, ArcGIS Online)**: Visualize your ideal hiking trail with the power of AI and ArcGIS Online!
+- 🚶‍♂️ **TrailMatch (React, Natural Language Processing API, ArcGIS Pro ArcGIS Online)**: Visualize your ideal hiking trail with the power of AI and ArcGIS Online!
   
 - 🍔 **Bruin Bites (React, Firebase)**: View ratings on UCLA's dining options and track your and your friends' dining activity!
 
 - 💬 **Twitch Bot (Twitch API, OAuth, Node.js)**: Automate viewer engagement and interaction on your own Twitch channel!
 
-- 🖨️ **DMA Printlab Status Interface (Python, Flask, Ansible, YAML, SQL, React, JavaScript, HTML, CSS)**: As a Full Stack Developer of this project, I streamlined data retrieval from 100+ machines at UCLA's DMA Printlab using Ansible and YAML. I also developed a web interface with Python, Flask, SQL, and React for effective machine status and statistics display
+- 🖨️ **Computer Server Status Interface (Ansible, YAML, SQL, React)**: Displays all fetched statistics on all machines from any server!
 
-- 🚌 **Bruin Bus Route/Stop Locator (ArcGIS Pro, ArcGIS Online, Python)**: Obtain the quickest bus route to your destinaotion within Los Angeles along with its visualization
+- 🚌 **Bruin Bus Route/Stop Locator (Python, ArcGIS Pro)**: Obtain the quickest bus route to your destination within Los Angeles along with its visualization!
   
 ## GIS Projects (ArcGIS Online Username: jlin_181Bsum22)
-- 🗺️ **Mapping Vernal Swale Italian Thistle Invasion (Agisoft Metashape, ArcGIS Pro, ArcGIS Field Maps, GRASS GIS)**: Employed advanced aerial imaging techniques to survey the Vernal Swale at UC Sedgwick Reserve, leveraging cutting-edge technology including a DJI Mavic 3 M drone equipped with an RTK receiver. Our focus was on meticulously mapping the distribution of the invasive Italian Thistle. By meticulously processing and analyzing UAV imagery using Agisoft Metashape, we gained invaluable insights. Further enhancing our assessment, we utilized the robust capabilities of ArcGIS Pro and GRASS GIS to predict and visualize the spread of Italian Thistle in the Vernal Swale, contributing significantly to ecological impact assessment.
+- 🗺️ **Mapping Vernal Swale Italian Thistle Invasion (Agisoft Metashape, ArcGIS Pro, ArcGIS Field Maps, GRASS GIS)**: Mapped out current and future invasive species spread within Sedgwik Reserve's Vernal Swale 
   
 - Additional GIS Projects:
   - 🗺️ Evacuation Site Suitability Analysis
