@@ -8,7 +8,7 @@ Hello there! 👋 I'm Jordan Lin, a UCLA graduate who recently completed a B.S. 
 
 - 🚶‍♂️ **TrailMatch (React, Natural Language Processing API, ArcGIS Pro ArcGIS Online, Figma)**: Visualize your ideal hiking trail with the power of AI and ArcGIS Online!
 
-- **HaggleHaul  (React, ASP.NET Core, Azure, Mapbox API, Figma)**: Regain control on ride share fares with bids!
+-  🚗 **HaggleHaul  (React, ASP.NET Core, Azure, Mapbox API, Figma)**: Regain control on ride share fares with bids!
   
 - 🍔 **Bruin Bites (React, Firebase)**: View ratings on UCLA's dining options and track your and your friends' dining activity!
 
